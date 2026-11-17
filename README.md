@@ -41,8 +41,8 @@ flowchart LR
 
 데이터는 GO TOKYO, 클럽투어리즘, 일본여행 카페(네일동)에서 모은 관광지 정보를 지역, 테마, 관광지 이름으로 정리해 썼습니다.
 
-![시스템 구성](images/system_overview.png)
-![서버 구조](images/server_architecture.png)
+![시스템 구성](/enjoytrip/images/system_overview.png)
+![서버 구조](/enjoytrip/images/server_architecture.png)
 
 ## 문제와 해결
 
@@ -59,9 +59,9 @@ flowchart LR
 
 ## 화면
 
-![메인](images/ui_main.png)
-![AI 일정 추천](images/ui_ai_schedule.png)
-![일반 GPT 답변과의 차이](images/gpt_vs_enjoytrip.png)
+![메인](/enjoytrip/images/ui_main.png)
+![AI 일정 추천](/enjoytrip/images/ui_ai_schedule.png)
+![일반 GPT 답변과의 차이](/enjoytrip/images/gpt_vs_enjoytrip.png)
 
 ## 폴더
 
